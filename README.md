@@ -13,7 +13,7 @@ Diese Erweiterung wurde finanziert von:
 * [InfinitySoft, Tristan Lins](http://www.infinitysoft.de)
 * [certo web & design GmbH](http://www.certo-net.ch)
 * [contao4you.de](http://contao4you.de)
-* Tasten & Co
+* [Tasten & Co](http://web.tastenundco.de)
 * [www.lingo4u.de](http://www.lingo4u.de)
 * Bytepuzzle
 * [Dockmedia](http://www.dockmedia.de)
